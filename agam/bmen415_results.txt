@@ -1,0 +1,68 @@
+DT before gridsearch:
+r square value: 0.6254386959549652
+mean absolute error (years): 8.28014184397163
+mean square error: 149.14775413711584
+root mean sqaure error (years): 12.212606361343013
+
+
+DT after gridsearch:
+r square value: 0.7343210234507795
+mean absolute error (years): 7.185590045424659
+mean square error: 105.79155466897721
+root mean sqaure error (years): 10.285502159300595
+
+ABR before gridsearch:
+r square value: 0.8281370136508809
+mean absolute error (years): 6.569164679604837
+mean square error: 68.43466785396222
+root mean sqaure error (years): 8.272524877808602
+
+
+ABR after gridsearch:
+r square value: 0.8333063763999193
+mean absolute error (years): 6.557319592741623
+mean square error: 66.3762628985842
+root mean sqaure error (years): 8.147162874190267
+
+-----------------
+
+DT class before gridsearch
+f1 score 0.7969880953289362
+precision: 0.887037037037037
+recall: 0.7384050594240383
+
+DT class after gridsearch
+f1 score 0.8311872094766831
+precision: 0.8705751834784093
+recall: 0.8016668255681753
+[[329   5   0]
+ [ 21  40   1]
+ [  4   0  26]]
+
+
+gaussian process before
+f1 score 0.774337103858819
+precision: 0.7587469194064286
+recall: 0.8202526636506136
+
+gaussian process after
+f1 score 0.8510979962281097
+precision: 0.8594052620601293
+recall: 0.8437285675182763
+[[318  15   1]
+ [ 11  47   4]
+ [  4   1  25]]
+
+
+xgboost before
+f1 score 0.8600343947787598
+precision: 0.8869821772639691
+recall: 0.838617577377346
+
+xgboost after
+f1 score 0.9157270793940925
+precision: 0.9425202342265008
+recall: 0.900231794475565
+[[331   3   0]
+ [ 16  44   2]
+ [  0   0  30]]
