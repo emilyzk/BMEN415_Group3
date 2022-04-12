@@ -1,5 +1,5 @@
 # BMEN415 Final Project
-### Winter 2022 - - - - - Group 3 !
+### Winter 2022 ⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠—⁠ <em>Group 3 !</em>
 - Regression Models:
   - [Booster Trees, MLP, Bagged](https://github.com/emilyzk/BMEN415_Group3/tree/main/harshil)
   - [Gradient Boosting, PLS, Gaussian Naive Bayes](https://github.com/emilyzk/BMEN415_Group3/tree/main/whitney)
