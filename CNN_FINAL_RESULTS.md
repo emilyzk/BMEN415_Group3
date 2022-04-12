@@ -196,7 +196,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![png](CNN_RESULTS/output_6_0.png)
     
 
 
@@ -214,6 +214,6 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![png](CNN_RESULTS/output_7_0.png)
     
 
